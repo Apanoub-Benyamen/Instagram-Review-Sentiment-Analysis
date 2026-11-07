@@ -1,0 +1,15 @@
+# Package versions were not recorded with the original notebook.
+# These are the main dependencies, not an exact reproducibility lockfile.
+numpy
+pandas
+matplotlib
+nltk
+regex
+emoji
+deep-translator
+tqdm
+wordcloud
+scikit-learn
+imbalanced-learn
+xgboost
+tensorflow
